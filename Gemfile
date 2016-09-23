@@ -38,8 +38,9 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 # for postgresql
-gem 'pg', '~> 0.18.4'
+# gem 'pg', '~> 0.18.4'
 
+gem 'sqlite3'
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use Unicorn as the app server
